@@ -3,7 +3,7 @@
     	var settings = $.extend({
 			key: "5BA8C93749B94B9D852B006A13984700",
 			mode: "",
-			locationId: "3698496",
+			locationId: "93562",
 			extraParams: "",
 			callback: function($el, tripAdvisorData) {},
 			errorCallback: function($el) {}
